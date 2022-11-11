@@ -157,19 +157,24 @@ font-size: 0;
 img{
 	width: 500px;
 	height: 300px;
-	padding-top: 16px;
+	padding-top: 20px;
+	float: left;
 }
 h3
 {
 	color: blue;
-	font-size: 25px;
+	font-size: 30px;
 	text-transform: capitalize;
+    padding: 20px;
+	margin: 15px;
 }
 p{
 	font-size: 20px;
 	color:black;
-	padding-top: 16px;
-	margin-bottom: 18px;
+	text-align: justify;
+	padding: 10px;
+	margin: 5px;
+	
 
 }
 .link
@@ -189,7 +194,8 @@ p{
 .hero
 {
 	width: 1200px;
-	margin: 0 auto;
+	margin: 20px;
+	padding-left: 12px;
 }
 .hero-image
 {
@@ -201,14 +207,13 @@ p{
 {
 	width:50%;
 	float:left;
-	margin: 0 auto;
-
 }
 .hero-image-1
 {
 	width: 585px;
 	text-align: justify;
 }
+
 .hero-article-2
 {
 	width:50%;
@@ -220,10 +225,13 @@ p{
 {
 	width:585px;
 	text-align:justify;
+	margin: 20px;
 }
 .para
 {
 	width: 1200px;
+	padding: 20px;
+	float: left;
 }
 .hero-image-head
 {
